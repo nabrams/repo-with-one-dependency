@@ -1,0 +1,7 @@
+{
+  "name": "repo-with-one-dependency",
+  "version": "1.0.0",
+  "dependencies": {
+    "repo-with-also-one-dependency": "^1.0.0"
+  }
+}
